@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "Playwrightによる内結テスト自動化を実行するためのデモ",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KotaOmuro1023/playwright-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KotaOmuro1023/playwright-demo/issues"
+  },
+  "homepage": "https://github.com/KotaOmuro1023/playwright-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}
