@@ -1,0 +1,2 @@
+# playwright-demo
+Playwrightによる内結テスト自動化を実行するためのデモ
